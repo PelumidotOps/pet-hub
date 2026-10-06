@@ -1,7 +1,6 @@
 # PetHub
 
-Standalone copy of the existing live website, separated from Deborah's portfolio. HTML, inline CSS/JavaScript, and local images were recovered from the published website because the supplied GitHub repository does not contain this project's source.
-
+PetHub is a pet-care platform that brings adoption, veterinary appointments, grooming, and pet supplies into one easy-to-use experience. It helps pet owners explore services, find a companion, and plan their pet’s care through clear navigation and a friendly, responsive interface that works across desktop and mobile.
 ## Run locally
 
 Install Node.js 22 or newer. No npm dependencies are required.
